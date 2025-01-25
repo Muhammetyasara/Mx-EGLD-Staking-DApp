@@ -1,35 +1,54 @@
 # Mx-EGLD-Staking-DApp
 
-Short description of the project's purpose and key functionality.
+# 📄 Description
+**Decentralized staking application for stake EGLD and earn rewards.**
 
 # 🛠️ Technology Stack
-  **Frontend**
+  ### Frontend
 - React.js
 - MultiversX SDK
 - TypeScript
 - CSS3
+ 
+ ### Smart Contract
+ - Rust
+ - Multiversx SC Framework
+ - WebAssembly
 
-Prerequisites
+# 📝 Prerequisites
+- Node.js (v14 or higher)
+- Rust (latest stable)
+- MultiversX SDK
+- MultiversX wallet
+- Required software
 
-Required software
-Versions needed
-
-Installation
-bashCopygit clone https://github.com/username/project.git
-cd project
+# 📦 Installation
+1. Clone Project
+```
+git clone https://github.com/Muhammetyasara/Mx-EGLD-Staking-DApp
+cd Mx-EGLD-Staking-DApp
+```
+2. Install frontend dependencies
+```
 npm install
-💻 Usage
-bashCopynpm start
-🤝 Contributing
+```
+3. Start the dev. Server
+```
+npm run dev
+```
+# 💻 Usage
+1. Connect your MultiversX wallet
+2. Enter the amount you want to stake
+3. Approve the transaction
+4. Monitor your staking position and rewards
+5. Unstake or claim rewards when desired
 
-Fork repository
-Create feature branch
-Commit changes
-Push to branch
-Open Pull Request
 
-📄 License
-MIT License
-📞 Contact
-Your Name - email@example.com
-Project Link: [GitHub Repo URL]
+# 🙏 Acknowledgements
+- Multiversx Community
+- Risein Community
+
+# 📞 Contact
+- Email: muhammetyasara@gmail.com
+- Linkedin: linkedin.com/in/muhammet-akıtıcı
+- Project Link: https://github.com/Muhammetyasara/Mx-EGLD-Staking-DApp
